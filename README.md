@@ -11,8 +11,8 @@
 
 
 ## 运行环境
-**编程语言：C++**  
-**依赖库：VTK**  
+**编程语言：Python**  
+**依赖库：torch**  
 
 ## 运行效果
 <img src="https://github.com/alicema-creator/Python-Yolov5-fire-flame-smoke-recognition-and-detection/blob/main/screenshot/fire (104).jpg" width="500"></a>
